@@ -1,0 +1,33 @@
+{
+  "name": "node-course",
+  "version": "1.0.0",
+  "description": "Basic node course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cris-gs/node-course.git"
+  },
+  "keywords": [
+    "course",
+    "node",
+    "nodejs"
+  ],
+  "author": "Cristopher González Solís",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cris-gs/node-course/issues"
+  },
+  "homepage": "https://github.com/cris-gs/node-course#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}

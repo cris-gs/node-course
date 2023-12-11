@@ -1,4 +1,4 @@
-const os =  require('node:os')
+const os = require('node:os')
 
 console.log('Operating system information:')
 console.log('-----------------------------')
